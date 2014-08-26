@@ -1,0 +1,131 @@
+{
+  "basics": {
+    "name": "Justin LeFebvre",
+    "label": "Software Engineer",
+    "picture": "",
+    "email": "jstnlefebvre@gmail.com",
+    "phone": "(508) 216-3078",
+    "website": "",
+    "summary": "",
+    "location": {
+      "address": "25 Orangewood Drive",
+      "postalCode": "02072",
+      "city": "Stoughton",
+      "countryCode": "US",
+      "region": "Massachusetts"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "jstnlef",
+        "url": "https://github.com/jstnlef"
+      },
+      {
+        "network": "Twitter",
+        "username": "jstnlef",
+        "url": "https://twitter.com/jstnlef"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "CloudLock",
+      "position": "Software Engineer",
+      "website": "http://www.cloudlock.com/",
+      "startDate": "2010-08",
+      "endDate": "",
+      "summary": "Full Stack Web Application Development",
+      "highlights": [
+        "Implemented various new features including (but not limited to) the Policy Engine, Export, and End User Policy Notifications features",
+        "Refactored the backend for the Collaboration Security product in all major areas",
+        "Advocated and championed the use of sound engineering techniques such as unit testing, continuous deployment, and code review",
+        "Contributed to core architecture design on Collaboration Security and others via writing technical documentation and design meetings",
+        "Eventually was given a technical lead role for the Collaboration Security Project"
+      ]
+    },
+    {
+      "company": "Basis Technology",
+      "position": "Software Development Intern",
+      "website": "http://www.basistech.com/",
+      "startDate": "2009-01",
+      "endDate": "2009-06",
+      "summary": "6 month co-op",
+      "highlights": [
+        " Enhanced the functionality of the open-source project PDFBox to support Arabic Text",
+        "Produced valuable bug reporting information to the Apache Community responsible for the project",
+        " Updated the regression test suite to match the changes made to PDFbox"
+      ]
+    },
+    {
+      "company": "MITRE",
+      "position": "Software Engineering Intern",
+      "website": "http://www.mitre.org/",
+      "startDate": "2008-01",
+      "endDate": "2008-06",
+      "summary": "6 month co-op",
+      "highlights": [
+        "Developed software for a prototype GPS solution commissioned by the Air Force",
+        "Demoed prototype for members of the military at a Tech Demo on Hanscom Air Force Base",
+        "Received United States Security Clearance: S – Secret"
+      ]
+    },
+    {
+      "company": "Raytheon",
+      "position": "Student Engineering Assistant",
+      "website": "http://www.raytheon.com/",
+      "startDate": "2007-01",
+      "endDate": "2007-06",
+      "summary": "6 month co-op",
+      "highlights": [
+        "Wrote a module that will take radar data and re-orient the tracks to north",
+        "Created a set of scripts which generate simulation data for use in a full-load test of the system",
+        "Submitted error reports for failing tests"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Northeastern University",
+      "area": "Computer Science",
+      "studyType": "Bachelor",
+      "startDate": "2005-09",
+      "endDate": "2010-05",
+      "gpa": "3.360/4.000",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Backend Webserver Development",
+      "level": "",
+      "keywords": [
+        "Python",
+        "Go",
+        "Google App Engine"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Ninjutsu since 2001 – 2nd degree Black Belt",
+      "keywords": [
+        "Martial Arts"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "David Baumgold, Software Engineer, CloudLock, worked directly with Justin at CloudLock",
+      "reference": "\"Justin is a quiet guy, but he's got a sharp mind, and he's a better developer than he gives himself credit for. He takes quality seriously, and goes the extra mile to help improve things wherever he can in a project: writing unit tests for other people's work, untangling nasty code snarls that have built up over time, volunteering to take on chores to help the project as a whole move faster. He's reliable, easy to get along with, and quite a character once you coax him out of his shell.\""
+    }
+  ]
+}
