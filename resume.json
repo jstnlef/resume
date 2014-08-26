@@ -32,8 +32,8 @@
       "company": "CloudLock",
       "position": "Software Engineer",
       "website": "http://www.cloudlock.com/",
-      "startDate": "2010-08",
-      "endDate": "",
+      "startDate": "2010-08-13",
+      "endDate": "2014-08-26",
       "summary": "Full Stack Web Application Development",
       "highlights": [
         "Implemented various new features including (but not limited to) the Policy Engine, Export, and End User Policy Notifications features",
@@ -47,8 +47,8 @@
       "company": "Basis Technology",
       "position": "Software Development Intern",
       "website": "http://www.basistech.com/",
-      "startDate": "2009-01",
-      "endDate": "2009-06",
+      "startDate": "2009-01-01",
+      "endDate": "2009-06-30",
       "summary": "6 month co-op",
       "highlights": [
         " Enhanced the functionality of the open-source project PDFBox to support Arabic Text",
@@ -60,8 +60,8 @@
       "company": "MITRE",
       "position": "Software Engineering Intern",
       "website": "http://www.mitre.org/",
-      "startDate": "2008-01",
-      "endDate": "2008-06",
+      "startDate": "2008-01-01",
+      "endDate": "2008-06-30",
       "summary": "6 month co-op",
       "highlights": [
         "Developed software for a prototype GPS solution commissioned by the Air Force",
@@ -73,8 +73,8 @@
       "company": "Raytheon",
       "position": "Student Engineering Assistant",
       "website": "http://www.raytheon.com/",
-      "startDate": "2007-01",
-      "endDate": "2007-06",
+      "startDate": "2007-01-01",
+      "endDate": "2007-06-30",
       "summary": "6 month co-op",
       "highlights": [
         "Wrote a module that will take radar data and re-orient the tracks to north",
@@ -89,8 +89,8 @@
       "institution": "Northeastern University",
       "area": "Computer Science",
       "studyType": "Bachelor",
-      "startDate": "2005-09",
-      "endDate": "2010-05",
+      "startDate": "2005-09-01",
+      "endDate": "2010-05-07",
       "gpa": "3.360/4.000",
       "courses": []
     }
@@ -99,12 +99,32 @@
   "publications": [],
   "skills": [
     {
-      "name": "Backend Webserver Development",
-      "level": "",
+      "name": "Backend Web Application Development",
+      "level": "advanced",
+      "keywords": [
+        "Python",
+        "Django",
+        "Google App Engine",
+        "Go"
+      ]
+    },
+    {
+      "name": "Frontend Web Application Development",
+      "level": "proficient",
+      "keywords": [
+        "Javascript",
+        "JQuery",
+        "Angular"
+      ]
+    },
+    {
+      "name": "Languages",
       "keywords": [
         "Python",
         "Go",
-        "Google App Engine"
+        "Java",
+        "Haskell",
+        "Rust"
       ]
     }
   ],
