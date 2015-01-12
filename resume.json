@@ -1,151 +1,248 @@
 {
-  "basics": {
-    "name": "Justin LeFebvre",
-    "label": "Software Engineer",
-    "picture": "",
-    "email": "jstnlefebvre@gmail.com",
-    "phone": "(508) 216-3078",
-    "website": "",
-    "summary": "",
-    "location": {
-      "address": "25 Orangewood Drive",
-      "postalCode": "02072",
-      "city": "Stoughton",
-      "countryCode": "US",
-      "region": "Massachusetts"
-    },
-    "profiles": [
-      {
-        "network": "GitHub",
-        "username": "jstnlef",
-        "url": "https://github.com/jstnlef"
-      },
-      {
-        "network": "Twitter",
-        "username": "jstnlef",
-        "url": "https://twitter.com/jstnlef"
-      }
-    ]
-  },
-  "work": [
-    {
-      "company": "CloudLock",
-      "position": "Software Engineer",
-      "website": "http://www.cloudlock.com/",
-      "startDate": "2010-08-13",
-      "endDate": "2014-08-26",
-      "summary": "Full Stack Web Application Development",
-      "highlights": [
-        "Implemented various new features including (but not limited to) the Policy Engine, Export, and End User Policy Notifications features",
-        "Refactored the backend for the Collaboration Security product in all major areas",
-        "Advocated and championed the use of sound engineering techniques such as unit testing, continuous deployment, and code review",
-        "Contributed to core architecture design on Collaboration Security and others via writing technical documentation and design meetings",
-        "Eventually was given a technical lead role for the Collaboration Security Project"
-      ]
-    },
-    {
-      "company": "Basis Technology",
-      "position": "Software Development Intern",
-      "website": "http://www.basistech.com/",
-      "startDate": "2009-01-01",
-      "endDate": "2009-06-30",
-      "summary": "6 month co-op",
-      "highlights": [
-        " Enhanced the functionality of the open-source project PDFBox to support Arabic Text",
-        "Produced valuable bug reporting information to the Apache Community responsible for the project",
-        " Updated the regression test suite to match the changes made to PDFbox"
-      ]
-    },
-    {
-      "company": "MITRE",
-      "position": "Software Engineering Intern",
-      "website": "http://www.mitre.org/",
-      "startDate": "2008-01-01",
-      "endDate": "2008-06-30",
-      "summary": "6 month co-op",
-      "highlights": [
-        "Developed software for a prototype GPS solution commissioned by the Air Force",
-        "Demoed prototype for members of the military at a Tech Demo on Hanscom Air Force Base",
-        "Received United States Security Clearance: S – Secret"
-      ]
-    },
-    {
-      "company": "Raytheon",
-      "position": "Student Engineering Assistant",
-      "website": "http://www.raytheon.com/",
-      "startDate": "2007-01-01",
-      "endDate": "2007-06-30",
-      "summary": "6 month co-op",
-      "highlights": [
-        "Wrote a module that will take radar data and re-orient the tracks to north",
-        "Created a set of scripts which generate simulation data for use in a full-load test of the system",
-        "Submitted error reports for failing tests"
-      ]
-    }
-  ],
-  "volunteer": [],
-  "education": [
-    {
-      "institution": "Northeastern University",
-      "area": "Computer Science",
-      "studyType": "Bachelor",
-      "startDate": "2005-09-01",
-      "endDate": "2010-05-07",
-      "gpa": "3.360/4.000",
-      "courses": []
-    }
-  ],
-  "awards": [],
-  "publications": [],
-  "skills": [
-    {
-      "name": "Backend Web Application Development",
-      "level": "advanced",
-      "keywords": [
-        "Python",
-        "Django",
-        "Google App Engine",
-        "Go"
-      ]
-    },
-    {
-      "name": "Frontend Web Application Development",
-      "level": "proficient",
-      "keywords": [
-        "Javascript",
-        "JQuery",
-        "Angular"
-      ]
-    },
-    {
-      "name": "Languages",
-      "keywords": [
-        "Python",
-        "Go",
-        "Java",
-        "Haskell",
-        "Rust"
-      ]
-    }
-  ],
-  "languages": [
-    {
-      "language": "English",
-      "fluency": "Native speaker"
-    }
-  ],
-  "interests": [
-    {
-      "name": "Ninjutsu since 2001 – 2nd degree Black Belt",
-      "keywords": [
-        "Martial Arts"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "David Baumgold, Software Engineer, CloudLock, worked directly with Justin at CloudLock",
-      "reference": "\"Justin is a quiet guy, but he's got a sharp mind, and he's a better developer than he gives himself credit for. He takes quality seriously, and goes the extra mile to help improve things wherever he can in a project: writing unit tests for other people's work, untangling nasty code snarls that have built up over time, volunteering to take on chores to help the project as a whole move faster. He's reliable, easy to get along with, and quite a character once you coax him out of his shell.\""
-    }
-  ]
+	"basics": {
+		"name":"Justin LeFebvre",
+		"label":"Senior Software Engineer",
+		"email":"jstnlefebvre@gmail.com",
+		"profiles":[
+			{
+				"network":"Linked In",
+				"url":"https:\/\/www.linkedin.com\/in\/jstnlef"
+			},
+			{
+				"network":"Twitter",
+				"url":"http:\/\/twitter.com\/jstnlef"
+			},
+			{
+				"network":"Github",
+				"url":"https:\/\/github.com\/jstnlef"
+			}]
+	},
+	"work":[
+		{
+			"company":"CloudLock",
+			"position":"Senior Software Engineer",
+			"website":"http:\/\/www.cloudlock.com\/",
+			"startDate":"2014-11-01",
+			"highlights":[
+				"Pushed forward an initiative to separate our monolithic application into a set of microservices",
+				"Supporting Collaboration Security customers until they can be migrated"
+			]
+		},
+		{
+			"company":"CloudLock",
+			"position":"Software Engineer",
+			"website":"http:\/\/www.cloudlock.com\/",
+			"startDate":"2010-08-01",
+			"endDate":"2014-11-01",
+			"highlights":[
+				"Implemented various new features including (but not limited to) the Policy Engine, Export, and End User Policy Notifications",
+				"Refactored the backend for the Collaboration Security product in all major areas",
+				"Advocated and championed the use of sound engineering techniques such as unit testing, continuous deployment, and code review",
+				"Contributed to core architecture design on Collaboration Security and others via writing technical documentation and attending design meetings",
+				"Earned the technical lead role for the Collaboration Security Project"
+			]
+		},
+		{
+			"company":"Basis Technology",
+			"position":"Software Development Intern",
+			"website":"http:\/\/www.basistech.com\/",
+			"startDate":"2009-01-01",
+			"endDate":"2009-06-01",
+			"highlights":[
+				"Enhanced the functionality of the open-source project PDFBox to support Arabic Text",
+				"Produced valuable bug reporting information to the Apache Community responsible for the project",
+				"Updated the regression test suite to match the changes made to PDFbox"
+			]
+		},
+		{
+			"company":"Northeastern University",
+			"position":"Peer Tutor for Mathematics",
+			"website":"http:\/\/www.math.neu.edu\/",
+			"startDate":"2007-09-01",
+			"endDate":"2008-12-01",
+			"highlights":[
+				"Exhibited patience when explaining complex problem solving methods to peers",
+				"Learned to tailor the help provided on a case by case basis quickly and effectively"
+			]
+		},
+		{
+			"company":"MITRE",
+			"position":"Software Engineering Intern",
+			"website":"http:\/\/www.mitre.org\/",
+			"startDate":"2008-01-01",
+			"endDate":"2008-06-01",
+			"highlights":[
+				"Received United States Security Clearance: S \u2013 Secret",
+				"Developed software for a prototype GPS solution commissioned by the Air Force",
+				"Demoed prototype for members of the military at a Tech Demo on Hanscom Air Force Base"
+			]
+		},
+		{
+			"company":"Raytheon",
+			"position":"Student Engineering Assistant",
+			"website":"http:\/\/www.raytheon.com\/",
+			"startDate":"2007-01-01",
+			"endDate":"2007-06-01",
+			"highlights":[
+				"Wrote a module that will take radar data and re-orient the tracks to north",
+				"Created a set of scripts which generate simulation data for use in a full-load test of the system",
+				"Submitted error reports for tests that went awry"
+			]
+		},
+		{
+			"company":"Armadyne Inc",
+			"position":"Software Developer",
+			"startDate":"2006-06-01",
+			"endDate":"2006-08-01",
+			"highlights":[
+				"Developed a UI for a web application used for web site creation",
+				"Created a client-side application that generates ASP files from XML\/XSL",
+				"Learned how to manage package structures and tenets of modular programming",
+				"Migrated existing websites in ASP to new web servers in ASP.NET"
+			]
+		}
+	],
+	"education":[
+		{
+			"institution":"Northeastern University",
+			"studyType":"Bachelor of Science",
+			"startDate":"2005-09-01",
+			"endDate":"2010-05-01"
+		}
+	],
+	"skills":[
+		{
+			"name":"Programming Languages",
+			"keywords":[
+				"Python",
+				"Javascript",
+				"Java",
+				"Go",
+				"C#",
+				"Haskell",
+				"Rust",
+				"C\/C++"
+			]
+		},
+		{
+			"name":"Python",
+			"keywords":[]
+		},
+		{
+			"name":"jQuery",
+			"keywords":[]
+		},
+		{
+			"name":"Back-end Web Application Development",
+			"keywords":["Django","Flask","PostgreSQL","Celery","SQLAlchemy"]
+		},
+		{
+			"name":"Django",
+			"keywords":[]
+		},
+		{
+			"name":"Google App Engine",
+			"keywords":[]
+		},
+		{
+			"name":"English",
+			"keywords":[]
+		},
+		{
+			"name":"Javascript",
+			"keywords":[]
+		},
+		{
+			"name":"AngularJS",
+			"keywords":[]
+		},
+		{
+			"name":"Flask",
+			"keywords":[]
+		},
+		{
+			"name":"Heroku",
+			"keywords":[]
+		},
+		{
+			"name":"Java",
+			"keywords":[]
+		},
+		{
+			"name":"React",
+			"keywords":[]
+		},
+		{
+			"name":"Cloud Platforms",
+			"keywords":["Google App Engine","Heroku","Amazon Web Services"]
+		},
+		{
+			"name":"Amazon Web Services",
+			"keywords":[]
+		},
+		{
+			"name":"PostgreSQL",
+			"keywords":[]
+		},
+		{
+			"name":"Go",
+			"keywords":[]
+		},
+		{
+			"name":"Front-end Web Application Development",
+			"keywords":["jQuery","AngularJS","React","RxJS"]
+		},
+		{
+			"name":"RxJS",
+			"keywords":[]
+		},
+		{
+			"name":"Celery",
+			"keywords":[]
+		},
+		{
+			"name":"C#",
+			"keywords":[]
+		},
+		{
+			"name":"SQLAlchemy",
+			"keywords":[]
+		},
+		{
+			"name":"Languages",
+			"keywords":["English"]
+		},
+		{
+			"name":"Haskell",
+			"keywords":[]
+		},
+		{
+			"name":"Rust",
+			"keywords":[]
+		},
+		{
+			"name":"C\/C++",
+			"keywords":[]
+		}
+	],
+	"interests":[
+		{
+			"name":"Worked through the first few sets of practice problems in the algorithm and functional programming sections of the site"
+		},
+		{
+			"name":"https:\/\/www.hackerrank.com\/jstnlef"
+		},
+		{
+			"name":"The competition is an application of autonomous behavioral programming for virtual robots"
+		},
+		{
+			"name":"The entire project is written in Java using their specialized competition package as well as the standard java libraries"
+		},
+		{
+			"name":"Martial Arts: Ninjutsu since 2001 \u2013 2nd degree Black Belt"
+		},
+		{
+			"name":"Science Fiction, Artificial Intelligence, Robotics, Learning Systems, Science and Math innovations, Role Playing and Board Games, Video Games (both playing and coding)"
+		}
+	]
 }
