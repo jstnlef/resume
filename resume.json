@@ -1,248 +1,399 @@
 {
-	"basics": {
-		"name":"Justin LeFebvre",
-		"label":"Senior Software Engineer",
-		"email":"jstnlefebvre@gmail.com",
-		"profiles":[
-			{
-				"network":"Linked In",
-				"url":"https:\/\/www.linkedin.com\/in\/jstnlef"
-			},
-			{
-				"network":"Twitter",
-				"url":"http:\/\/twitter.com\/jstnlef"
-			},
-			{
-				"network":"Github",
-				"url":"https:\/\/github.com\/jstnlef"
-			}]
-	},
-	"work":[
-		{
-			"company":"CloudLock",
-			"position":"Senior Software Engineer",
-			"website":"http:\/\/www.cloudlock.com\/",
-			"startDate":"2014-11-01",
-			"highlights":[
-				"Pushed forward an initiative to separate our monolithic application into a set of microservices",
-				"Supporting Collaboration Security customers until they can be migrated"
-			]
-		},
-		{
-			"company":"CloudLock",
-			"position":"Software Engineer",
-			"website":"http:\/\/www.cloudlock.com\/",
-			"startDate":"2010-08-01",
-			"endDate":"2014-11-01",
-			"highlights":[
-				"Implemented various new features including (but not limited to) the Policy Engine, Export, and End User Policy Notifications",
-				"Refactored the backend for the Collaboration Security product in all major areas",
-				"Advocated and championed the use of sound engineering techniques such as unit testing, continuous deployment, and code review",
-				"Contributed to core architecture design on Collaboration Security and others via writing technical documentation and attending design meetings",
-				"Earned the technical lead role for the Collaboration Security Project"
-			]
-		},
-		{
-			"company":"Basis Technology",
-			"position":"Software Development Intern",
-			"website":"http:\/\/www.basistech.com\/",
-			"startDate":"2009-01-01",
-			"endDate":"2009-06-01",
-			"highlights":[
-				"Enhanced the functionality of the open-source project PDFBox to support Arabic Text",
-				"Produced valuable bug reporting information to the Apache Community responsible for the project",
-				"Updated the regression test suite to match the changes made to PDFbox"
-			]
-		},
-		{
-			"company":"Northeastern University",
-			"position":"Peer Tutor for Mathematics",
-			"website":"http:\/\/www.math.neu.edu\/",
-			"startDate":"2007-09-01",
-			"endDate":"2008-12-01",
-			"highlights":[
-				"Exhibited patience when explaining complex problem solving methods to peers",
-				"Learned to tailor the help provided on a case by case basis quickly and effectively"
-			]
-		},
-		{
-			"company":"MITRE",
-			"position":"Software Engineering Intern",
-			"website":"http:\/\/www.mitre.org\/",
-			"startDate":"2008-01-01",
-			"endDate":"2008-06-01",
-			"highlights":[
-				"Received United States Security Clearance: S \u2013 Secret",
-				"Developed software for a prototype GPS solution commissioned by the Air Force",
-				"Demoed prototype for members of the military at a Tech Demo on Hanscom Air Force Base"
-			]
-		},
-		{
-			"company":"Raytheon",
-			"position":"Student Engineering Assistant",
-			"website":"http:\/\/www.raytheon.com\/",
-			"startDate":"2007-01-01",
-			"endDate":"2007-06-01",
-			"highlights":[
-				"Wrote a module that will take radar data and re-orient the tracks to north",
-				"Created a set of scripts which generate simulation data for use in a full-load test of the system",
-				"Submitted error reports for tests that went awry"
-			]
-		},
-		{
-			"company":"Armadyne Inc",
-			"position":"Software Developer",
-			"startDate":"2006-06-01",
-			"endDate":"2006-08-01",
-			"highlights":[
-				"Developed a UI for a web application used for web site creation",
-				"Created a client-side application that generates ASP files from XML\/XSL",
-				"Learned how to manage package structures and tenets of modular programming",
-				"Migrated existing websites in ASP to new web servers in ASP.NET"
-			]
-		}
-	],
-	"education":[
-		{
-			"institution":"Northeastern University",
-			"studyType":"Bachelor of Science",
-			"startDate":"2005-09-01",
-			"endDate":"2010-05-01"
-		}
-	],
-	"skills":[
-		{
-			"name":"Programming Languages",
-			"keywords":[
-				"Python",
-				"Javascript",
-				"Java",
-				"Go",
-				"C#",
-				"Haskell",
-				"Rust",
-				"C\/C++"
-			]
-		},
-		{
-			"name":"Python",
-			"keywords":[]
-		},
-		{
-			"name":"jQuery",
-			"keywords":[]
-		},
-		{
-			"name":"Back-end Web Application Development",
-			"keywords":["Django","Flask","PostgreSQL","Celery","SQLAlchemy"]
-		},
-		{
-			"name":"Django",
-			"keywords":[]
-		},
-		{
-			"name":"Google App Engine",
-			"keywords":[]
-		},
-		{
-			"name":"English",
-			"keywords":[]
-		},
-		{
-			"name":"Javascript",
-			"keywords":[]
-		},
-		{
-			"name":"AngularJS",
-			"keywords":[]
-		},
-		{
-			"name":"Flask",
-			"keywords":[]
-		},
-		{
-			"name":"Heroku",
-			"keywords":[]
-		},
-		{
-			"name":"Java",
-			"keywords":[]
-		},
-		{
-			"name":"React",
-			"keywords":[]
-		},
-		{
-			"name":"Cloud Platforms",
-			"keywords":["Google App Engine","Heroku","Amazon Web Services"]
-		},
-		{
-			"name":"Amazon Web Services",
-			"keywords":[]
-		},
-		{
-			"name":"PostgreSQL",
-			"keywords":[]
-		},
-		{
-			"name":"Go",
-			"keywords":[]
-		},
-		{
-			"name":"Front-end Web Application Development",
-			"keywords":["jQuery","AngularJS","React","RxJS"]
-		},
-		{
-			"name":"RxJS",
-			"keywords":[]
-		},
-		{
-			"name":"Celery",
-			"keywords":[]
-		},
-		{
-			"name":"C#",
-			"keywords":[]
-		},
-		{
-			"name":"SQLAlchemy",
-			"keywords":[]
-		},
-		{
-			"name":"Languages",
-			"keywords":["English"]
-		},
-		{
-			"name":"Haskell",
-			"keywords":[]
-		},
-		{
-			"name":"Rust",
-			"keywords":[]
-		},
-		{
-			"name":"C\/C++",
-			"keywords":[]
-		}
-	],
-	"interests":[
-		{
-			"name":"Worked through the first few sets of practice problems in the algorithm and functional programming sections of the site"
-		},
-		{
-			"name":"https:\/\/www.hackerrank.com\/jstnlef"
-		},
-		{
-			"name":"The competition is an application of autonomous behavioral programming for virtual robots"
-		},
-		{
-			"name":"The entire project is written in Java using their specialized competition package as well as the standard java libraries"
-		},
-		{
-			"name":"Martial Arts: Ninjutsu since 2001 \u2013 2nd degree Black Belt"
-		},
-		{
-			"name":"Science Fiction, Artificial Intelligence, Robotics, Learning Systems, Science and Math innovations, Role Playing and Board Games, Video Games (both playing and coding)"
-		}
-	]
+  "basics": {
+    "name": "Justin LeFebvre",
+    "label": "Software Engineer",
+    "email": "jstnlefebvre@gmail.com",
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "url": "https:\/\/www.linkedin.com\/in\/jstnlef"
+      },
+      {
+        "network": "Twitter",
+        "url": "http:\/\/twitter.com\/jstnlef"
+      },
+      {
+        "network": "Github",
+        "url": "https:\/\/github.com\/jstnlef"
+      },
+      {
+        "network": "My blog",
+        "url": "https:\/\/medium.com\/@jstnlef"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "CloudLock",
+      "position": "Senior Software Engineer",
+      "website": "http:\/\/www.cloudlock.com\/",
+      "startDate": "2014-11-01",
+      "highlights": [
+        "Pushed forward an initiative to separate our monolithic application into a set of microservices using Docker and Amazon ECS",
+        "Developed core functionality on the new platform architecture",
+        "Wrote technical documentation and participated in design meetings for core architecture improvements",
+        "Reviewed code via pull requests on github.com"
+      ]
+    },
+    {
+      "company": "CloudLock",
+      "position": "Software Engineer",
+      "website": "http:\/\/www.cloudlock.com\/",
+      "startDate": "2010-08-01",
+      "endDate": "2014-11-01",
+      "highlights": [
+        "Implemented core application features throughout the product",
+        "Refactored the backend for our main product in all major areas",
+        "Advocated and championed the use of sound engineering techniques such as unit testing, continuous deployment, and code review",
+        "Earned the technical lead role for the Collaboration Security Project"
+      ]
+    },
+    {
+      "company": "Basis Technology",
+      "position": "Software Development Intern",
+      "website": "http:\/\/www.basistech.com\/",
+      "startDate": "2009-01-01",
+      "endDate": "2009-06-01",
+      "highlights": [
+        "Enhanced the functionality of the open-source project PDFBox to support Arabic text parsing",
+        "Learned much about UTF-8 and the Unicode Standard",
+        "Updated the regression test suite to match the changes made to PDFbox",
+        "Produced valuable bug reporting information to the Apache Community responsible for the project"
+      ]
+    },
+    {
+      "company": "Northeastern University",
+      "position": "Peer Tutor for Mathematics",
+      "website": "http:\/\/www.math.neu.edu\/",
+      "startDate": "2007-09-01",
+      "endDate": "2008-12-01",
+      "highlights": [
+        "Mentored peers in complex mathematical concepts from a range of courses, including Algebra, Calculus, Probability, Statistics, and Combinatorics",
+        "Adapted tutoring strategy on a case by case basis quickly and effectively according to the needs of the student"
+      ]
+    },
+    {
+      "company": "MITRE",
+      "position": "Software Engineering Intern",
+      "website": "http:\/\/www.mitre.org\/",
+      "startDate": "2008-01-01",
+      "endDate": "2008-06-01",
+      "highlights": [
+        "Received United States Security Clearance: S \u2013 Secret",
+        "Developed a software prototype commissioned by the US Air Force for a squad-based command and control solution using commercially available GPS enabled encrypted radios and a ruggedized PDA",
+        "Demonstrated prototype for members of the US military at a Tech Demo on Hanscom Air Force Base"
+      ]
+    },
+    {
+      "company": "Raytheon",
+      "position": "Student Engineering Assistant",
+      "website": "http:\/\/www.raytheon.com\/",
+      "startDate": "2007-01-01",
+      "endDate": "2007-06-01",
+      "highlights": [
+        "Wrote a module to reorient aircraft radar data from current heading as 0 degrees to true north as 0 degrees",
+        "Created a small C++ program to generate simulation data for use in full-load testing the air traffic control system my team was working on",
+        "Submitted bug\/error reports for tests that crashed the system"
+      ]
+    },
+    {
+      "company": "Armadyne Inc",
+      "position": "Software Developer",
+      "startDate": "2006-06-01",
+      "endDate": "2006-08-01",
+      "highlights": [
+        "Developed the UI for a web application used for web site creation",
+        "Created a client-side application that generates ASP files from XML\/XSL",
+        "Learned how to manage package structures and the tenets of modular and object-oriented programming in C#",
+        "Migrated existing websites written in ASP to ASP.NET"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Northeastern University",
+      "studyType": "Bachelor of Science",
+      "startDate": "2005-09-01",
+      "endDate": "2010-05-01"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming Languages",
+      "keywords": [
+        "Python",
+        "Java",
+        "Javascript",
+        "Rust",
+        "Go",
+        "C#",
+        "Haskell",
+        "C\/C++"
+      ]
+    },
+    {
+      "name": "Python",
+      "keywords": [
+
+      ]
+    },
+    {
+      "name": "jQuery",
+      "keywords": [
+
+      ]
+    },
+    {
+      "name": "Django",
+      "keywords": [
+
+      ]
+    },
+    {
+      "name": "Google App Engine",
+      "keywords": [
+
+      ]
+    },
+    {
+      "name": "Git",
+      "keywords": [
+
+      ]
+    },
+    {
+      "name": "Docker",
+      "keywords": [
+
+      ]
+    },
+    {
+      "name": "English",
+      "keywords": [
+
+      ]
+    },
+    {
+      "name": "Unity",
+      "keywords": [
+
+      ]
+    },
+    {
+      "name": "Java",
+      "keywords": [
+
+      ]
+    },
+    {
+      "name": "AngularJS",
+      "keywords": [
+
+      ]
+    },
+    {
+      "name": "Back-end Web Application Development",
+      "keywords": [
+        "Django",
+        "Flask",
+        "Play Framework",
+        "PostgreSQL",
+        "Celery",
+        "SQLAlchemy"
+      ]
+    },
+    {
+      "name": "Flask",
+      "keywords": [
+
+      ]
+    },
+    {
+      "name": "Amazon Web Services",
+      "keywords": [
+
+      ]
+    },
+    {
+      "name": "Subversion",
+      "keywords": [
+
+      ]
+    },
+    {
+      "name": "Ansible",
+      "keywords": [
+
+      ]
+    },
+    {
+      "name": "Javascript",
+      "keywords": [
+
+      ]
+    },
+    {
+      "name": "React",
+      "keywords": [
+
+      ]
+    },
+    {
+      "name": "Heroku",
+      "keywords": [
+
+      ]
+    },
+    {
+      "name": "Play Framework",
+      "keywords": [
+
+      ]
+    },
+    {
+      "name": "Infrastructure\/Deployment Tools",
+      "keywords": [
+        "Docker",
+        "Ansible",
+        "Jenkins"
+      ]
+    },
+    {
+      "name": "Jenkins",
+      "keywords": [
+
+      ]
+    },
+    {
+      "name": "Rust",
+      "keywords": [
+
+      ]
+    },
+    {
+      "name": "RxJS",
+      "keywords": [
+
+      ]
+    },
+    {
+      "name": "PostgreSQL",
+      "keywords": [
+
+      ]
+    },
+    {
+      "name": "Version Control Systems",
+      "keywords": [
+        "Git",
+        "Subversion"
+      ]
+    },
+    {
+      "name": "Go",
+      "keywords": [
+
+      ]
+    },
+    {
+      "name": "Cloud Platforms",
+      "keywords": [
+        "Google App Engine",
+        "Amazon Web Services",
+        "Heroku"
+      ]
+    },
+    {
+      "name": "Celery",
+      "keywords": [
+
+      ]
+    },
+    {
+      "name": "C#",
+      "keywords": [
+
+      ]
+    },
+    {
+      "name": "SQLAlchemy",
+      "keywords": [
+
+      ]
+    },
+    {
+      "name": "Game Engines",
+      "keywords": [
+        "Unity"
+      ]
+    },
+    {
+      "name": "Haskell",
+      "keywords": [
+
+      ]
+    },
+    {
+      "name": "Front-end Web Application Development",
+      "keywords": [
+        "jQuery",
+        "AngularJS",
+        "React",
+        "RxJS"
+      ]
+    },
+    {
+      "name": "C\/C++",
+      "keywords": [
+
+      ]
+    },
+    {
+      "name": "Languages",
+      "keywords": [
+        "English"
+      ]
+    }
+  ],
+  "interests": [
+    {
+      "name": "Github: https:\/\/github.com\/jstnlef"
+    },
+    {
+      "name": "Medium: https:\/\/medium.com\/@jstnlef"
+    },
+    {
+      "name": "Twitter: http:\/\/twitter.com\/jstnlef"
+    },
+    {
+      "name": "Often participates in AI programming competitions"
+    },
+    {
+      "name": "Completed quite a few of the single player problems."
+    },
+    {
+      "name": "https:\/\/www.codingame.com"
+    },
+    {
+      "name": "Worked through the first few sets of practice problems in the algorithm and functional programming sections of the site"
+    },
+    {
+      "name": "https:\/\/www.hackerrank.com\/jstnlef"
+    },
+    {
+      "name": "The competition is an application of autonomous behavioral programming for virtual robots"
+    },
+    {
+      "name": "The entire project is written in Java using their specialized competition package as well as the standard Java libraries"
+    },
+    {
+      "name": "Martial Arts: Bujinkan Budo Taijutsu (Ninjutsu) since 2001 \u2013 2nd degree Black Belt"
+    },
+    {
+      "name": "Science Fiction, Artificial Intelligence, Robotics, Learning Systems, Role Playing and Board Games, Video Games (both playing and coding)"
+    },
+    {
+      "name": "Catching up on Hacker News and other blogs"
+    }
+  ]
 }
